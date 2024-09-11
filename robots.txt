@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mtiklo.github.io/pas/sitemap.pas.gz
